@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(88, 173, 219);
+}
+
+.container {
+    background-color: aliceblue;
+    display: flexbox;
+    justify-content: center;
+    text-align: center;
+    height: 500px;
+    width: 500px;
+    margin-left: 350px;
+}
+
+#input {
+    width: 450px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    padding-top: 20px;
+}
+
+#button {
+    margin-bottom: 15px;
+    width: 460px;
+    background-color: rgb(84, 146, 163);
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    text-align: left;
+    display: flex;
+}
